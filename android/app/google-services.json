@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562054259112",
+    "project_id": "flutter-projects-a9f80",
+    "storage_bucket": "flutter-projects-a9f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562054259112:android:358031b5f183baa6eb3d9d",
+        "android_client_info": {
+          "package_name": "com.deijai.push_notification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMZGzSp9qFajR9Mpc_n639OuD6l9BF5us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
